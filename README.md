@@ -1,8 +1,6 @@
 
-### Hi there 👋
- :v: studying 
 ![image](https://raw.githubusercontent.com/NightCatSama/NightCatSama/master/%E2%9D%A4.gif)
-## ![](https://visitor-badge.glitch.me/badge?page_id=wenlan-coder.readme)
+
 <div>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=wenlan-coder" />
  <span></span>
