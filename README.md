@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm wenlan</h1>
 <h3 align="center">A web frontend developer</h3>
 <h3 align="left">Connect with me:</h3>
-![image](https://raw.githubusercontent.com/wenlan-coder/wenlan-coder/main/%E2%9D%A4.gif)
+[](https://raw.githubusercontent.com/wenlan-coder/wenlan-coder/main/%E2%9D%A4.gif))
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
