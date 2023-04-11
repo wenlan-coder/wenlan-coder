@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm wenlan</h1>
+<h2 align="center">Hi 👋, I'm wenlan</h1>
 <Img src="https://raw.githubusercontent.com/wenlan-coder/wenlan-coder/main/%E2%9D%A4.gif"/>
 <h3 align="center">A web frontend developer</h3>
 <h3 align="left">Languages and Tools:</h3>
